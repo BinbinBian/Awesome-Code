@@ -15,10 +15,9 @@
 - [Word2Vec](https://github.com/carpedm20/word2vec-tensorflow)
 - [CNN code for insurance QA(question Answer matching)](https://github.com/BinbinBian/insuranceQA-cnn)---[InsuranceQA Corpus](https://github.com/shuzi/insuranceQA)
 - [Some experiments on MovieQA with Hsieh,Tom and Huang in AMLDS](https://github.com/YCKung/MovieQA)
-- 
-- [ssss)](test)
-- 
-- 
+- [Convolutional Neural Networks for Sentence Classification (kIM.EMNLP2014)](https://github.com/dennybritz/cnn-text-classification-tf)Tensorflow
+- [Convolutional Neural Networks for Sentence Classification (kIM.EMNLP2014)](https://github.com/yoonkim/CNN_sentence)Theano
+ 
 <a name="torch"/>
 ##Torch
 - [A Neural Attention Model for Abstractive Summarization](https://github.com/BinbinBian/neural-summary-tensorflow)
