@@ -21,8 +21,11 @@
 
 <a name="theano" />
 ##Theano
+- [ End-To-End Memory Networks, formerly known as Weakly Supervised Memory Networks](https://github.com/npow/MemN2N)
+- [Memory Networks](https://github.com/npow/MemNN)
+- [Recurrent Neural Networks with External Memory for Language Understanding](https://github.com/npow/RNN-EM)
 - [Attention Sum Reader model as presented in "Text Comprehension with the Attention Sum Reader Network"](https://github.com/rkadlec/asreader)---[ CNN and Daily Mail news data QA]()
-- 
+
 <a name="torch"/>
 ##Torch
 - [A Neural Attention Model for Abstractive Summarization](https://github.com/BinbinBian/neural-summary-tensorflow)
