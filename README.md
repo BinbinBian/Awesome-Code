@@ -25,6 +25,8 @@
 - [Memory Networks](https://github.com/npow/MemNN)
 - [Recurrent Neural Networks with External Memory for Language Understanding](https://github.com/npow/RNN-EM)
 - [Attention Sum Reader model as presented in "Text Comprehension with the Attention Sum Reader Network"](https://github.com/rkadlec/asreader)---[ CNN and Daily Mail news data QA]()
+- [character-level language models](https://github.com/lipiji/rnn-theano)
+- [Hierarchical Encoder-Decoder](https://github.com/BinbinBian/hierarchical-encoder-decoder)
 
 <a name="torch"/>
 ##Torch
