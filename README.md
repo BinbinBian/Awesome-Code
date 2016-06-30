@@ -3,6 +3,7 @@
 深度学习
 ##Table of Contents
 - [Tensorflow](#tensorflow)
+- [Theano](#theano)
 - [Torch](#torch)
 - [Deep Reinforcement Learning](#Deep Reinforcement Learning)
 
@@ -17,7 +18,11 @@
 - [Some experiments on MovieQA with Hsieh,Tom and Huang in AMLDS](https://github.com/YCKung/MovieQA)
 - [Convolutional Neural Networks for Sentence Classification (kIM.EMNLP2014)](https://github.com/dennybritz/cnn-text-classification-tf)Tensorflow
 - [Convolutional Neural Networks for Sentence Classification (kIM.EMNLP2014)](https://github.com/yoonkim/CNN_sentence)Theano
- 
+
+<a name="theano" />
+##Theano
+- [Attention Sum Reader model as presented in "Text Comprehension with the Attention Sum Reader Network"](https://github.com/rkadlec/asreader)---[ CNN and Daily Mail news data QA]()
+- 
 <a name="torch"/>
 ##Torch
 - [A Neural Attention Model for Abstractive Summarization](https://github.com/BinbinBian/neural-summary-tensorflow)
