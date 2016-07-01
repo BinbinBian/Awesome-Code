@@ -5,6 +5,7 @@
 - [Tensorflow](#tensorflow)
 - [Theano](#theano)
 - [Torch](#torch)
+- [Matlab](#matlab)
 - [Deep Reinforcement Learning](#Deep Reinforcement Learning)
 
 <a name="tensorflow" />
@@ -33,6 +34,10 @@
 - [A Neural Attention Model for Abstractive Summarization](https://github.com/BinbinBian/neural-summary-tensorflow)
 - [Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
 
+<a name="matlab">
+##Matlab
+- [When Are Tree Structures Necessary for Deep Learning of Representations](https://github.com/jiweil/Sequence-Models-on-Stanford-Treebank)
+- 
 <A name="Deep Reinforcement Learning">
 ##Deep Reinforcement Learning
 
@@ -40,4 +45,5 @@
 <A name="mldptt">
 ##machine learning and deep learning tutorials, articles and other resources
 - [machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE](https://github.com/thunlp/KG2E)
 
