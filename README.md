@@ -48,4 +48,8 @@
 - [machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE](https://github.com/thunlp/KG2E)
 - [【论文:深度学习NLP的可视化理解】《Visualizing and Understanding Neural Models in NLP》J Li, X Chen, E Hovy, D Jurafsky (2015) ](https://github.com/jiweil/Visualizing-and-Understanding-Neural-Models-in-NLP)
+- 
+<A name="people">
+##
+-[carpedm20](https://github.com/carpedm20)
 
