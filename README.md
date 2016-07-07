@@ -11,12 +11,14 @@
 <a name="tensorflow" />
 ##Tensorflow
 - [Neural Turing Machine(NMT)](https://github.com/carpedm20/NTM-tensorflow).
+- [A Neural Attention Model for Abstractive Summarization](https://github.com/BinbinBian/neural-summary-tensorflow)
 - [Recurrent Convolutional Memory Network](https://github.com/carpedm20/RCMN)
 - [End-To-End Memory Networks in Tensorflow](https://github.com/carpedm20/MemN2N-tensorflow)
 - [Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)---[wikiQA Corpus]()
 - [Word2Vec](https://github.com/carpedm20/word2vec-tensorflow)
 - [CNN code for insurance QA(question Answer matching)](https://github.com/BinbinBian/insuranceQA-cnn)---[InsuranceQA Corpus](https://github.com/shuzi/insuranceQA)
 - [Some experiments on MovieQA with Hsieh,Tom and Huang in AMLDS](https://github.com/YCKung/MovieQA)
+- [Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
 - [Convolutional Neural Networks for Sentence Classification (kIM.EMNLP2014)](https://github.com/dennybritz/cnn-text-classification-tf)Tensorflow
 - [Convolutional Neural Networks for Sentence Classification (kIM.EMNLP2014)](https://github.com/yoonkim/CNN_sentence)Theano
 
@@ -31,8 +33,7 @@
 
 <a name="torch"/>
 ##Torch
-- [A Neural Attention Model for Abstractive Summarization](https://github.com/BinbinBian/neural-summary-tensorflow)
-- [Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
+- [Sequence-to-sequence model with LSTM encoder/decoders and attention](https://github.com/harvardnlp/seq2seq-attn)
 
 <a name="matlab">
 ##Matlab
@@ -46,4 +47,5 @@
 ##machine learning and deep learning tutorials, articles and other resources
 - [machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE](https://github.com/thunlp/KG2E)
+- [【论文:深度学习NLP的可视化理解】《Visualizing and Understanding Neural Models in NLP》J Li, X Chen, E Hovy, D Jurafsky (2015) ](https://github.com/jiweil/Visualizing-and-Understanding-Neural-Models-in-NLP)
 
