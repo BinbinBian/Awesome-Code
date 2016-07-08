@@ -30,6 +30,7 @@
 - [Attention Sum Reader model as presented in "Text Comprehension with the Attention Sum Reader Network"](https://github.com/rkadlec/asreader)---[ CNN and Daily Mail news data QA]()
 - [character-level language models](https://github.com/lipiji/rnn-theano)
 - [Hierarchical Encoder-Decoder](https://github.com/BinbinBian/hierarchical-encoder-decoder)
+- [A Recurrent Latent Variable Model for Sequential Data](https://github.com/jych/nips2015_vrnn)
 
 <a name="torch"/>
 ##Torch
