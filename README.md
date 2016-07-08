@@ -34,6 +34,7 @@
 <a name="torch"/>
 ##Torch
 - [Sequence-to-sequence model with LSTM encoder/decoders and attention](https://github.com/harvardnlp/seq2seq-attn)
+- [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://github.com/rajarshd/ChainsOfReasoning/tree/master/model)
 
 <a name="matlab">
 ##Matlab
@@ -48,7 +49,7 @@
 - [machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE](https://github.com/thunlp/KG2E)
 - [【论文:深度学习NLP的可视化理解】《Visualizing and Understanding Neural Models in NLP》J Li, X Chen, E Hovy, D Jurafsky (2015) ](https://github.com/jiweil/Visualizing-and-Understanding-Neural-Models-in-NLP)
-- 
+- [Links to the implementations of neural conversational models for different frameworks(seq2seq chatbot links)](https://github.com/nicolas-ivanov/seq2seq_chatbot_links)
 <A name="people">
 ##
 -[carpedm20](https://github.com/carpedm20)
