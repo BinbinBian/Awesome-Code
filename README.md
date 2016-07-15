@@ -22,6 +22,7 @@
 - [Convolutional Neural Networks for Sentence Classification (kIM.EMNLP2014)](https://github.com/dennybritz/cnn-text-classification-tf)Tensorflow
 - [Convolutional Neural Networks for Sentence Classification (kIM.EMNLP2014)](https://github.com/yoonkim/CNN_sentence)Theano
 - [Separating Answers from Queries for Neural Reading Comprehension](https://github.com/dirkweissenborn/qa_network)
+- [Neural Associative Memory for Dual-Sequence Modeling](https://github.com/dirkweissenborn/dual_am_rnn)
 
 <a name="theano" />
 ##Theano
