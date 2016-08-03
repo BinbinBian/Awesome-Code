@@ -56,6 +56,8 @@
 - [【论文:深度学习NLP的可视化理解】《Visualizing and Understanding Neural Models in NLP》J Li, X Chen, E Hovy, D Jurafsky (2015) ](https://github.com/jiweil/Visualizing-and-Understanding-Neural-Models-in-NLP)
 - [Links to the implementations of neural conversational models for different frameworks(seq2seq chatbot links)](https://github.com/nicolas-ivanov/seq2seq_chatbot_links)
 - [Links to the implementations of neural conversational models for different frameworks](https://github.com/nicolas-ivanov/seq2seq_chatbot_links)
+
+
 <A name="people">
 ##People
 -[carpedm20](https://github.com/carpedm20)
