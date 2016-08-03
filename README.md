@@ -57,6 +57,6 @@
 - [Links to the implementations of neural conversational models for different frameworks(seq2seq chatbot links)](https://github.com/nicolas-ivanov/seq2seq_chatbot_links)
 - [Links to the implementations of neural conversational models for different frameworks](https://github.com/nicolas-ivanov/seq2seq_chatbot_links)
 <A name="people">
-##
+##People
 -[carpedm20](https://github.com/carpedm20)
 
