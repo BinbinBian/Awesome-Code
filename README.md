@@ -1,7 +1,7 @@
 # Awesome-Code
-A curated list of awesome implementations of models.
-Contributions are welcomed.
-（tensorflow,torch,theano,keras,...）
+- A curated list of awesome implementations of neural network models.（tensorflow,torch,theano,keras,...）
+- Mainly Question Answering,Machine comprehension,Sentiment Analysis...
+- Contributions are welcomed.
 
 ##Table of Contents
 - [Python](#python)
