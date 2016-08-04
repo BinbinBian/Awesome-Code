@@ -35,6 +35,7 @@
 - [character-level language models](https://github.com/lipiji/rnn-theano)
 - [Hierarchical Encoder-Decoder](https://github.com/BinbinBian/hierarchical-encoder-decoder)
 - [A Recurrent Latent Variable Model for Sequential Data](https://github.com/jych/nips2015_vrnn)
+- [A Fast Unified Model for Sentence Parsing and Understanding(Stack-augmented Parser-Interpreter Neural Network)](https://github.com/stanfordnlp/spinn)
 
 <a name="torch"/>
 ##Torch
