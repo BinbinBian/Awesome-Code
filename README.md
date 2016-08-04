@@ -45,7 +45,8 @@
 <a name="matlab">
 ##Matlab
 - [When Are Tree Structures Necessary for Deep Learning of Representations](https://github.com/jiweil/Sequence-Models-on-Stanford-Treebank)
-- 
+ 
+ 
 <A name="Deep Reinforcement Learning">
 ##Deep Reinforcement Learning
 
