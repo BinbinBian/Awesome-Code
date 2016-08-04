@@ -51,7 +51,7 @@
 ##Deep Reinforcement Learning
 
 
-================================================================================================================================
+##================================================================================================================================
 <A name="mldptt">
 ##machine learning and deep learning tutorials, articles and other resources
 - [machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
