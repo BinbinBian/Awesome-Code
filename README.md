@@ -49,6 +49,7 @@
 - [Sequence-to-sequence model with LSTM encoder/decoders and attention](https://github.com/harvardnlp/seq2seq-attn)
 - [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://github.com/rajarshd/ChainsOfReasoning/tree/master/model)
 - [Recurrent Memory Network for Language Modeling](https://github.com/ketranm/RMN)
+- [Bag of Tricks for Efficient Text Classification.(FastTxt)](https://github.com/kemaswill/fasttext_torch)
 
 <a name="matlab">
 ##Matlab
