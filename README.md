@@ -2,12 +2,17 @@
 各种源码实现（tensorflow,torch,theano,keras,...）
 深度学习
 ##Table of Contents
+- [Python](#python)
 - [Tensorflow](#tensorflow)
 - [Theano](#theano)
 - [Keras](#keras)
 - [Torch](#torch)
 - [Matlab](#matlab)
 - [Deep Reinforcement Learning](#Deep Reinforcement Learning)
+
+<a name="python" />
+##Python
+- [context2vec: Learning Generic Context Embedding with Bidirectional LSTM](https://github.com/orenmel/context2vec)
 
 <a name="tensorflow" />
 ##Tensorflow
