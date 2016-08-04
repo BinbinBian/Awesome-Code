@@ -4,6 +4,7 @@
 ##Table of Contents
 - [Tensorflow](#tensorflow)
 - [Theano](#theano)
+- [Keras](#keras)
 - [Torch](#torch)
 - [Matlab](#matlab)
 - [Deep Reinforcement Learning](#Deep Reinforcement Learning)
