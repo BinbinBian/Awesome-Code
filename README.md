@@ -1,7 +1,8 @@
 # Awesome-Code
+A curated list of awesome implementations of models.
+Contributions are welcomed.
+（tensorflow,torch,theano,keras,...）
 
-各种源码实现（tensorflow,torch,theano,keras,...）
-深度学习
 ##Table of Contents
 - [Python](#python)
 - [Tensorflow](#tensorflow)
