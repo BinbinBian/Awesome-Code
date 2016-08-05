@@ -43,7 +43,8 @@
 - [Hierarchical Encoder-Decoder](https://github.com/BinbinBian/hierarchical-encoder-decoder)
 - [A Recurrent Latent Variable Model for Sequential Data](https://github.com/jych/nips2015_vrnn)
 - [A Fast Unified Model for Sentence Parsing and Understanding(Stack-augmented Parser-Interpreter Neural Network)](https://github.com/stanfordnlp/spinn)
-- [ Semi-supervised Question Retrieval with Gated Convolutions. NAACL 2016][ Molding CNNs for text: non-linear, non-consecutive convolutions. EMNLP 2015](https://github.com/taolei87/rcnn)
+- [ Semi-supervised Question Retrieval with Gated Convolutions. NAACL 2016](https://github.com/taolei87/rcnn)
+- [ Molding CNNs for text: non-linear, non-consecutive convolutions. EMNLP 2015](https://github.com/taolei87/rcnn)
 
 <a name="torch"/>
 ##Torch
