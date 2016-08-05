@@ -50,6 +50,7 @@
 - [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://github.com/rajarshd/ChainsOfReasoning/tree/master/model)
 - [Recurrent Memory Network for Language Modeling](https://github.com/ketranm/RMN)
 - [Bag of Tricks for Efficient Text Classification.(FastTxt)](https://github.com/kemaswill/fasttext_torch)
+- [Character-Aware Neural Language Models (AAAI 2016).](https://github.com/yoonkim/lstm-char-cnn)
 
 <a name="matlab">
 ##Matlab
