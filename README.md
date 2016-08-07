@@ -51,8 +51,8 @@
 - [Sequence-to-sequence model with LSTM encoder/decoders and attention](https://github.com/harvardnlp/seq2seq-attn)
 - [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://github.com/rajarshd/ChainsOfReasoning/tree/master/model)
 - [Recurrent Memory Network for Language Modeling](https://github.com/ketranm/RMN)
-- [Bag of Tricks for Efficient Text Classification.(FastTxt)](https://github.com/kemaswill/fasttext_torch)
-- [Bag of Tricks for Efficient Text Classification.(FastTxt)](https://github.com/facebookresearch/fastText)Facebook C++
+- [Bag of Tricks for Efficient Text Classification.(FastText)](https://github.com/kemaswill/fasttext_torch)
+- [Bag of Tricks for Efficient Text Classification.(FastText)](https://github.com/facebookresearch/fastText)Facebook C++
 - [Character-Aware Neural Language Models (AAAI 2016).](https://github.com/yoonkim/lstm-char-cnn)
 - [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks(Tree-LSTM)](https://github.com/stanfordnlp/treelstm)
 - [A Neural Attention Model for Abstractive Summarization.](https://github.com/facebook/NAMAS)
