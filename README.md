@@ -54,7 +54,7 @@
 - [Bag of Tricks for Efficient Text Classification.(FastTxt)](https://github.com/kemaswill/fasttext_torch)
 - [Bag of Tricks for Efficient Text Classification.(FastTxt)](https://github.com/facebookresearch/fastText)Facebook C++
 - [Character-Aware Neural Language Models (AAAI 2016).](https://github.com/yoonkim/lstm-char-cnn)
-- [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks(Tree-LSTM)](https://github.com/Sharhoo/treelstm)
+- [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks(Tree-LSTM)](https://github.com/stanfordnlp/treelstm)
 
 <a name="matlab">
 ##Matlab
