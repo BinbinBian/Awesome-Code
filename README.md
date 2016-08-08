@@ -18,7 +18,8 @@
 
 <a name="tensorflow" />
 ##Tensorflow
-- [Neural Turing Machine(NMT)](https://github.com/carpedm20/NTM-tensorflow).
+- [Neural Turing Machine(NMT)](https://github.com/carpedm20/NTM-tensorflow).Tensorflow
+- [Neural Turing Machine(NMT)](https://github.com/kaishengtai/torch-ntm).Torch
 - [A Neural Attention Model for Abstractive Summarization](https://github.com/BinbinBian/neural-summary-tensorflow)
 - [Recurrent Convolutional Memory Network](https://github.com/carpedm20/RCMN)
 - [End-To-End Memory Network](https://github.com/carpedm20/MemN2N-tensorflow)@carpedm20
