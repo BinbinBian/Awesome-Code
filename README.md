@@ -21,7 +21,8 @@
 - [Neural Turing Machine(NMT)](https://github.com/carpedm20/NTM-tensorflow).
 - [A Neural Attention Model for Abstractive Summarization](https://github.com/BinbinBian/neural-summary-tensorflow)
 - [Recurrent Convolutional Memory Network](https://github.com/carpedm20/RCMN)
-- [End-To-End Memory Networks in Tensorflow](https://github.com/carpedm20/MemN2N-tensorflow)
+- [End-To-End Memory Network](https://github.com/carpedm20/MemN2N-tensorflow)@carpedm20
+- [End-To-End Memory Network](https://github.com/domluna/memn2n)@domluna
 - [Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)---[wikiQA Corpus]()
 - [Word2Vec](https://github.com/carpedm20/word2vec-tensorflow)
 - [CNN code for insurance QA(question Answer matching)](https://github.com/BinbinBian/insuranceQA-cnn)---[InsuranceQA Corpus](https://github.com/shuzi/insuranceQA)
