@@ -32,6 +32,7 @@
 - [Separating Answers from Queries for Neural Reading Comprehension](https://github.com/dirkweissenborn/qa_network)
 - [Neural Associative Memory for Dual-Sequence Modeling](https://github.com/dirkweissenborn/dual_am_rnn)
 - [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems.](https://github.com/dennybritz/chatbot-retrieval)
+- [Key-Value Memory Networks for Directly Reading Documents](https://github.com/siyuanzhao/key-value-memory-networks)
 
 <a name="theano" />
 ##Theano
