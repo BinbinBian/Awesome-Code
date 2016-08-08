@@ -49,6 +49,10 @@
 - [ Semi-supervised Question Retrieval with Gated Convolutions. NAACL 2016](https://github.com/taolei87/rcnn)
 - [ Molding CNNs for text: non-linear, non-consecutive convolutions. EMNLP 2015](https://github.com/taolei87/rcnn)
 
+<a name="keras"/>
+##Keras
+- [Learning text representation using recurrent convolutional neural network with highway layers](https://github.com/wenying45/deep_learning_tutorial/tree/master/rcnn-hw)
+
 <a name="torch"/>
 ##Torch
 - [Sequence-to-sequence model with LSTM encoder/decoders and attention](https://github.com/harvardnlp/seq2seq-attn)
