@@ -83,6 +83,7 @@
 - [Links to the implementations of neural conversational models for different frameworks(seq2seq chatbot links)](https://github.com/nicolas-ivanov/seq2seq_chatbot_links)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Awesome Tensorflow Implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
+- [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn)
 
 
 <A name="people">
