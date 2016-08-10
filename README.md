@@ -82,7 +82,7 @@
 - [【论文:深度学习NLP的可视化理解】《Visualizing and Understanding Neural Models in NLP》J Li, X Chen, E Hovy, D Jurafsky (2015) ](https://github.com/jiweil/Visualizing-and-Understanding-Neural-Models-in-NLP)
 - [Links to the implementations of neural conversational models for different frameworks(seq2seq chatbot links)](https://github.com/nicolas-ivanov/seq2seq_chatbot_links)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
-
+- [Awesome Tensorflow Implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
 
 
 <A name="people">
