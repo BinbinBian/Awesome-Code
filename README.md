@@ -49,6 +49,7 @@
 - [A Fast Unified Model for Sentence Parsing and Understanding(Stack-augmented Parser-Interpreter Neural Network)](https://github.com/stanfordnlp/spinn)
 - [ Semi-supervised Question Retrieval with Gated Convolutions. NAACL 2016](https://github.com/taolei87/rcnn)
 - [ Molding CNNs for text: non-linear, non-consecutive convolutions. EMNLP 2015](https://github.com/taolei87/rcnn)
+- [Tree RNNs](https://github.com/ofirnachum/tree_rnn)
 
 <a name="keras"/>
 ##Keras
