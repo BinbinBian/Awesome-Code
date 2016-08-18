@@ -51,6 +51,8 @@
 - [ Molding CNNs for text: non-linear, non-consecutive convolutions. EMNLP 2015](https://github.com/taolei87/rcnn)
 - [Tree RNNs](https://github.com/ofirnachum/tree_rnn)
 - [A Character-Level Decoder without Explicit Segmentation for Neural Machine Translation(ACL2016)](https://github.com/nyu-dl/dl4mt-cdec)
+- [Charagram: Embedding Words and Sentences via Character n-grams](https://github.com/jwieting/charagram)
+- [Towards Universal Paraphrastic Sentence Embeddings](https://github.com/jwieting/iclr2016)
 
 <a name="keras"/>
 ##Keras
