@@ -35,6 +35,7 @@
 - [Neural Associative Memory for Dual-Sequence Modeling](https://github.com/dirkweissenborn/dual_am_rnn)
 - [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems.](https://github.com/dennybritz/chatbot-retrieval)
 - [Key-Value Memory Networks for Directly Reading Documents](https://github.com/siyuanzhao/key-value-memory-networks)
+- [A statistical natural language generator for spoken dialogue systems(SIGDIAL 2016 short paper)](https://github.com/UFAL-DSG/tgen)
 
 <a name="theano" />
 ##Theano
