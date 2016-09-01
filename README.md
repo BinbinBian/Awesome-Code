@@ -54,6 +54,7 @@
 - [A Character-Level Decoder without Explicit Segmentation for Neural Machine Translation(ACL2016)](https://github.com/nyu-dl/dl4mt-cdec)
 - [Charagram: Embedding Words and Sentences via Character n-grams](https://github.com/jwieting/charagram)
 - [Towards Universal Paraphrastic Sentence Embeddings](https://github.com/jwieting/iclr2016)
+- [Dependency-based Convolutional Neural Networks for Sentence Embedding](https://github.com/cosmmb/DCNN)
 
 <a name="keras"/>
 ##Keras
