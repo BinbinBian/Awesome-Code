@@ -22,6 +22,7 @@
 - [Neural Turing Machine(NMT)](https://github.com/kaishengtai/torch-ntm). Kai Sheng Tai’s (Torch)
 - [Neural Turing Machine(NMT)](https://github.com/shawntan/neural-turing-machines)Shawn Tan’s (Thenao)
 - [Neural Turing Machine(NMT)](https://github.com/fumin/ntm)Fumin’s (Go)
+- [Neural Turing Machine(NMT)](https://github.com/snipsco/ntm-lasagne)Snip’s (Lasagne)
 - [Neural GPUs Learn Algorithms](https://github.com/tensorflow/models/tree/master/neural_gpu)
 - [A Neural Attention Model for Abstractive Summarization](https://github.com/BinbinBian/neural-summary-tensorflow)
 - [Recurrent Convolutional Memory Network](https://github.com/carpedm20/RCMN)
