@@ -18,8 +18,11 @@
 
 <a name="tensorflow" />
 ##Tensorflow
-- [Neural Turing Machine(NMT)](https://github.com/carpedm20/NTM-tensorflow).Tensorflow
-- [Neural Turing Machine(NMT)](https://github.com/kaishengtai/torch-ntm).Torch
+- [Neural Turing Machine(NMT)](https://github.com/carpedm20/NTM-tensorflow).Taehoon Kim’s(Tensorflow)
+- [Neural Turing Machine(NMT)](https://github.com/kaishengtai/torch-ntm). Kai Sheng Tai’s (Torch)
+- [Neural Turing Machine(NMT)](https://github.com/shawntan/neural-turing-machines)Shawn Tan’s (Thenao)
+- [Neural Turing Machine(NMT)](https://github.com/fumin/ntm)Fumin’s (Go)
+- [Neural GPUs Learn Algorithms](https://github.com/tensorflow/models/tree/master/neural_gpu)
 - [A Neural Attention Model for Abstractive Summarization](https://github.com/BinbinBian/neural-summary-tensorflow)
 - [Recurrent Convolutional Memory Network](https://github.com/carpedm20/RCMN)
 - [End-To-End Memory Network](https://github.com/carpedm20/MemN2N-tensorflow)@carpedm20
@@ -42,6 +45,8 @@
 - [ End-To-End Memory Networks, formerly known as Weakly Supervised Memory Networks](https://github.com/npow/MemN2N)
 - [Memory Networks](https://github.com/npow/MemNN)
 - [Dynamic Memory Networks](https://github.com/swstarlab/DynamicMemoryNetworks)
+- [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano)YerevaNN’s (Theano)
+- [Memory Networks](https://github.com/facebook/MemNN)Facebook’s (Torch/Matlab)
 - [Recurrent Neural Networks with External Memory for Language Understanding](https://github.com/npow/RNN-EM)
 - [Attention Sum Reader model as presented in "Text Comprehension with the Attention Sum Reader Network"](https://github.com/rkadlec/asreader)---[ CNN and Daily Mail news data QA]()
 - [character-level language models](https://github.com/lipiji/rnn-theano)
