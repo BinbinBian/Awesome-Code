@@ -61,6 +61,7 @@
 - [Charagram: Embedding Words and Sentences via Character n-grams](https://github.com/jwieting/charagram)
 - [Towards Universal Paraphrastic Sentence Embeddings](https://github.com/jwieting/iclr2016)
 - [Dependency-based Convolutional Neural Networks for Sentence Embedding](https://github.com/cosmmb/DCNN)
+- [Siamese-LSTM - Siamese Recurrent Neural network with LSTM for evaluating semantic similarity between sentences.（AAAI2016））](https://github.com/aditya1503/Siamese-LSTM)
 
 <a name="keras"/>
 ##Keras
