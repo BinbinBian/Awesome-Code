@@ -15,6 +15,8 @@
 <a name="python" />
 ##Python
 - [context2vec: Learning Generic Context Embedding with Bidirectional LSTM](https://github.com/orenmel/context2vec)
+- [Deep Unordered Composition Rivals Syntactic Methods for Text Classification(Deep Averaging Networks ACL2015)](https://github.com/miyyer/dan)
+
 
 <a name="tensorflow" />
 ##Tensorflow
