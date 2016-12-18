@@ -79,6 +79,9 @@
 - [Character-Aware Neural Language Models (AAAI 2016).](https://github.com/yoonkim/lstm-char-cnn)
 - [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks(Tree-LSTM)](https://github.com/stanfordnlp/treelstm)
 - [A Neural Attention Model for Abstractive Summarization.](https://github.com/facebook/NAMAS)
+- [Text Understanding with the Attention Sum Reader Network, Kadlec et al., ACL 2016.](https://github.com/ganeshjawahar/torch-teacher)
+- [A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task, Chen et al., ACL 2016.](https://github.com/ganeshjawahar/torch-teacher)
+- [The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations, Hill et al., ICLR 2016.](https://github.com/ganeshjawahar/torch-teacher)
 
 <a name="matlab">
 ##Matlab
